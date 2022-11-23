@@ -6,6 +6,12 @@
 
 Essa aplicação é um jogo de cartas de futebol baseado no Brasileirão 2020, desenvolvi para jogar às vezes e claro quem quiser jogar também pode acessando esse link: [Jogue também](https://silasfmartins.github.io/super-trunfo-brasileirao/)
 
+## ✨ Tecnologias
+
+-   [ x ] HTML
+-   [ x ] CSS
+-   [ x ] Javascript
+
 ## Requisitos para jogar
 
 É necessário ter um navegador e internet para poder jogar.
