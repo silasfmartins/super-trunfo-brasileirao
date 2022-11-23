@@ -1,4 +1,4 @@
-# Super Trunfo Brasileirão Série A 2021
+# Super Trunfo Brasileirão
 
 ![license](https://img.shields.io/github/license/silasfmartins/super-trunfo-brasileirao)
 
