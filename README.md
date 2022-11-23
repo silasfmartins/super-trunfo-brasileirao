@@ -4,7 +4,7 @@
 
 🖥 Desenvolvi esse projeto durante a Imersão Dev da Alura, mas modifiquei um pouco depois. (Os dados dos clubes foram baseados na estatísticas de posição, gols marcados e sofridos do Brasileirão 2020)
 
-Essa aplicação é um jogo de cartas de futebol baseado no Brasileirão 2020, desenvolvi para jogar às vezes e claro quem quiser jogar também pode acessando esse link: [Jogue também](https://supertrunfobrasileirao2021.online)
+Essa aplicação é um jogo de cartas de futebol baseado no Brasileirão 2020, desenvolvi para jogar às vezes e claro quem quiser jogar também pode acessando esse link: [Jogue também](https://silasfmartins.github.io/super-trunfo-brasileirao/)
 
 ## Requisitos para jogar
 
