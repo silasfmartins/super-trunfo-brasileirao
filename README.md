@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Super Trunfo Brasileirão" height="80" title="Plant Manager" src=".github/logo.png" />
+  <img alt="Super Trunfo Brasileirão" height="80" title="Plant Manager" src="./image.png" />
 </h1>
 
 ![license](https://img.shields.io/github/license/silasfmartins/super-trunfo-brasileirao)
