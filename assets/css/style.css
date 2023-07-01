@@ -215,9 +215,13 @@ form {
   body {
     background: url("");
     background-color: #000;
+    overflow-x: hidden;
   }
   body.light {
     background: url("");
+  }
+  button {
+    width: 80%;
   }
   .wrapper {
     display: flex;
