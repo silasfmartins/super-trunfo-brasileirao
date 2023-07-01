@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Silas Martins">
+    <meta name="description" content="Super Trunfo baseado no Brasileirão 2021">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Super Trunfo Brasileirão 2021</title>
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <input type="checkbox" id="checkbox">
+      <label for="checkbox">
+        <img width="20" src="./assets/images/moon.svg" alt="Moon - Lua">
+        <img width="20" src="./assets/images/sun.svg" alt="Sun - Sol">
+        <div class="ball" />
+        <span id="current-theme"></span>
+      </label>
+    </header>
+    <main>
+      <form id="form">
+      <h1>Super Trunfo Brasilerão Série A 2021</h1>
+        <h2>Escolha o seu atributo</h2>
+        <button class="sortear" onclick="sortearCarta()" id="btnSortear">Sortear carta</button>
+        <button
+          class="button-jogar"
+          type="button"
+          id="btnJogar"
+          onclick="jogar()"
+          disabled="false"
+        >
+          Jogar
+        </button>
+        <button
+            class="button-jogar"
+            type="button"
+            id="btnJogar2"
+            onclick="jogar()"
+            disabled="false"
+          >
+            Jogar
+          </button>
+        <button
+          type="button"
+          id="btnProximaRodada"
+          onclick="proximaRodada()"
+          disabled="true"
+        >
+          Jogar Novamente
+        </button>
+        <div class="wrapper">
+          <div>
+            <div id="carta-jogador">
+              <img
+                src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent-ajustado.png"
+                style="width: inherit; height: inherit; position: absolute"
+              />
+            </div>
+          </div>
+          <div class="cards">
+            <div id="carta-maquina" class="carta">
+              <img
+                src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent-ajustado.png"
+                style="width: inherit; height: inherit; position: absolute"
+              />
+            </div>
+          </div>
+        </div>
+        <div id="resultado"></div>
+      </form>
+    </main>
+  </body>
+  <script src="./js/scripts.js"></script>
+</html>
